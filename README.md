@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuckDenver
 - 👀 I’m interested in 3D modeling and video game asset/world creation
-- 🌱 I’m currently learning Marketing and Management at University, as well self teaching as 3D modeling and code 
+- 🌱 I’m currently learning Blender, Substance painter and Designer, and the CS50's Course 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
