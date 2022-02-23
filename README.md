@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon
-- 👀 I’m interested in 3D modeling and video game asset/world creation
-- 🌱 I’m currently learning Blender, Substance painter and Designer, and the CS50's Course 
+- 👀 I’m interested in 3D modeling, Graphic Design, and Web Devlopment
+- 🌱 I’m currently learning Blender, HTML5, CSS, Java, Photoshop, and Illustator
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
